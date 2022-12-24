@@ -1,0 +1,91 @@
+
+body{
+    font-family: "Montserrat", sans-serif;
+
+}
+
+
+.flex{
+   margin-left: 55%;
+   font-size: 20px;
+   font-weight: bolder;
+}
+.nav-link:hover {
+
+  text-decoration: underline;
+ 
+}
+    
+.img-fluid {
+  width: 100px;
+  height: 10px;
+}
+.bg{
+    /* background:rgba(46, 27, 27, 0.959); */
+    background:#412D2D;
+    
+
+}
+
+
+
+
+
+/* slider ------------------------------------  */
+.text-color{
+    color: #f38507 !important;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+.carousel-caption{
+    position: relative;
+    top: 10%;
+}
+.capcoffee{
+    font-size: 500%;
+    font-weight: bolder
+  }
+
+
+  /* ---------------------------------------about------------------  */
+
+  .display-4{
+    font-family: "Montserrat", sans-serif;
+    
+  }
+
+
+  /* --------------------------offer------------------------  */
+
+  .offer{
+    background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(bg.jpg);
+
+  }
+
+  .text-success{
+    font-weight: bolder !important;
+    font-size: 70px !important;
+  }
+
+.menu-price{
+    background-color: #f38507;
+    border-radius: 40%;
+    text-align: center;
+  }
+/* -------------------------------reservation-------------------  */
+
+.reservation{
+    background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(bg.jpg);
+  }
+.form-group{
+    padding: 10px;
+}
+
+/* footer--------------------------------------  */
+.footer {
+  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(bg.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
